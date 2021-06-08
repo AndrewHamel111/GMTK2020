@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_bat16, image_index, x,y,3,3,enemyDir,enemyColor,1);

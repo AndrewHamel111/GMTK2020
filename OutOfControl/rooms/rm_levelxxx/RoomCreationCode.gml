@@ -1,0 +1,1 @@
+global.currentRoomIndex = 13;
